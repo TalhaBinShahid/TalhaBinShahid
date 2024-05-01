@@ -1,6 +1,5 @@
 ### Hi there 👋, Welcome!
 
-<!--
 Hello! My name is **Talha Bin Shahid**👋. I am from National University of Modern languages🏗️ taking BS Computer Science.💻
   I have a huge interest in Data Science and Data engineering. Currently studying python🐍.
   I love to join different community and competition that involve providing benefit to the society.
@@ -20,4 +19,4 @@ Hello! My name is **Talha Bin Shahid**👋. I am from National University of Mod
 - 🤔 I’m looking for help with learning python and getting the perfect path to learn data science.
 - 📫 How to reach me: talhabinshahid2004@outlook.com
 - 😄 Pronouns: he/him
--->
+
