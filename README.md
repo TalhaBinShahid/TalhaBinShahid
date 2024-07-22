@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Talha Bin Shahid
 ========================================================================================================================================
 
-I am from National University of Modern languages🏗️ taking BS Computer Science.💻 I have a huge interest in Data Science and Data engineering. Currently studying python🐍. I love to join different community and competition that involve providing benefit to the society.
+I am from National University of Modern languages🏗️ taking BS Computer Science.💻 I have a huge interest in Data Science and Data engineering. Currently focusing on Data analysis and data visualization. I love to join different communities and competitions that involve providing benefit to the society.
 
 *   🌍  I'm based in Pakistan
 *   ✉️  You can contact me at [talhabinshahid2004@outlook.com](mailto:talhabinshahid2004@outlook.com)
-*   🧠  I'm learning how to use Github.
-*   🤝  I'm open to collaborating on on basic data science porjects.
+*   🤝  I'm open to collaborating on on basic data analysis porjects.
 *   ⚡  I am Batman. Tell Everyone!
    ### Skills 
 <p align="left">
